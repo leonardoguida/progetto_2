@@ -1,1 +1,1 @@
-var = "stringa originale"
+var = "stringa originale "
